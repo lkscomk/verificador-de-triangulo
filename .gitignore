@@ -1,0 +1,8 @@
+/venv
+
+
+# local env files
+.replit
+.poetry.lock
+.nix
+
