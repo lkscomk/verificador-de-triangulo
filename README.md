@@ -14,9 +14,7 @@ Todos os lados são diferentes, portanto, trata-se de um triângulo escaleno ten
 
 ## Instalação
 
-Confira as dependências no arquivo package.json
-
-Primeiro crie o clone do repositório em sua máquina.
+Apenas crie o clone do repositório em sua máquina.
 
 ```sh
 git clone https://github.com/lkscomk/verificador-de-triangulo.git
