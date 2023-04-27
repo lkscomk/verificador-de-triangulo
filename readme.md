@@ -1,9 +1,6 @@
 # 🔺VERIFICAR TRIÂNGULOS
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
-Flask
-
-Este é o lado back-end do meu 
 
 ## Demonstração de conhecimento em lógica de programação e básico de Python
 
