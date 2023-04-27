@@ -1,4 +1,10 @@
 # 🔺VERIFICAR TRIÂNGULOS
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
+Flask
+
+Este é o lado back-end do meu 
+
 ## Demonstração de conhecimento em lógica de programação e básico de Python
 
 É simples, recebe três valores, inseridos pelo usuário, cateto um, cateto dois e hipotenusa. O código se responsabiliza em verificar o tipo de triângulo e suas caracteriscas.
@@ -20,4 +26,6 @@ Apenas crie o clone do repositório em sua máquina.
 git clone https://github.com/lkscomk/verificador-de-triangulo.git
 ```
 
-O código não tem dependênias, ou seja, clonou, rodou.
+![Logo do Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
+
+O código não tem dependênias, precisa apenas do Python instalado, ou seja, clonou, rodou.
